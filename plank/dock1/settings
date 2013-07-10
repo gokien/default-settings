@@ -5,7 +5,7 @@ CurrentWorkspaceOnly=false
 #The size of dock icons (in pixels).
 IconSize=48
 #If 0, the dock won't hide.  If 1, the dock intelligently hides.  If 2, the dock auto-hides. If 3, the dock elementary-hides.
-HideMode=3
+HideMode=0
 #Time (in ms) to wait before unhiding the dock.
 UnhideDelay=0
 #The monitor number for the dock. Use -1 to keep on the primary monitor.
