@@ -15,7 +15,7 @@
 /desktop/gnome/applications/media/exec noise
 
 # Set Midori as default browser
-/desktop/gnome/applications/browser/exec midori
+/desktop/gnome/applications/browser/exec firefox
 
 # Setting theme via GConf is still needed for Qt apps to look decent
 /desktop/gnome/interface/gtk_theme elementary
