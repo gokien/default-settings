@@ -1,16 +1,16 @@
-Source: elementary-default-settings
+Source: gokien-default-settings
 Section: gnome
 Priority: optional
-Maintainer: Sergey "Shnatsel" Davidoff <shnatsel@gmail.com>
+Maintainer: Trung Ngo <ndtrung4419@gmail.com>
 Build-Depends: debhelper (>= 8.1.3~)
 Standards-Version: 3.9.2
 
-Package: elementary-default-settings
+Package: gokien-default-settings
 Architecture: all
 Depends: ${misc:Depends}, dmz-cursor-theme
-Recommends: pantheon-terminal, noise, plank-theme-pantheon
+Recommends: pantheon-terminal, noise, plank-theme-pantheon, elementary-default-settings
 Replaces: midori, midori-gtk3, midori-granite, libgtk-3-0
 Enhances: midori, midori-gtk3, midori-granite, plank
-Description: elementary default settings
- This package contains various system defaults for elementary OS.
+Description: gokien default settings
+ This package contains various system defaults for Gokien.
  Installing this package won't affect existing users on your system.
