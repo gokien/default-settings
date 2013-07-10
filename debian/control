@@ -8,8 +8,8 @@ Standards-Version: 3.9.2
 Package: gokien-default-settings
 Architecture: all
 Depends: ${misc:Depends}, dmz-cursor-theme
-Recommends: pantheon-terminal, noise, plank-theme-pantheon, elementary-default-settings
-Replaces: midori, midori-gtk3, midori-granite, libgtk-3-0
+Recommends: pantheon-terminal, noise, plank-theme-pantheon
+Replaces: midori, midori-gtk3, midori-granite, libgtk-3-0, elementary-default-settings
 Enhances: midori, midori-gtk3, midori-granite, plank
 Description: gokien default settings
  This package contains various system defaults for Gokien.
