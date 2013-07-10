@@ -5,7 +5,7 @@
 
 override_dh_gconf:
 	cat debian/gconf-defaults.commented | grep -v '#' | grep '/' > debian/gconf-defaults
-	dh_gconf --priority=95
+	dh_gconf --priority=96
 
 override_dh_installgsettings:
-	dh_installgsettings --priority=25
+	dh_installgsettings --priority=26
