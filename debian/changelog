@@ -1,3 +1,9 @@
+gokien-default-settings (0.1.0) precise; urgency=low
+
+  * Initial port to gokien
+
+ -- Trung Ngo <ndtrung4419@gmail.com>  Wed, 10 Jul 2013 20:52:39 +0700
+
 elementary-default-settings (0.4.3) oneiric; urgency=low
 
   * Set pantheon-terminal as default terminal
