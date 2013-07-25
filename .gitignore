@@ -1,0 +1,5 @@
+/debian/gokien-default-settings/*
+/debian/gconf-defaults
+/debian/gokien-default-settings.debhelper.log
+/debian/gokien-default-settings.substvars
+/debian/files
