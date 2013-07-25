@@ -1,3 +1,4 @@
 midori/config /etc/xdg/midori/
 plank/dock1 /etc/skel/.config/plank/
 settings.ini /etc/gtk-3.0/
+source-code-pro.conf /etc/fonts/conf.avail/
